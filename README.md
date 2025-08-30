@@ -27,26 +27,6 @@ I'm **Aman Verma**, I'm a passionate full-stack developer and AI enthusiast at W
 
 ---
 
-### 📚 Education
-
-- **Master of Science in Computer Science**  
-  Washington University in St. Louis (Expected Graduation: May 2026)  3.55/4.00
-  Relevant Courses: Mobile Application Development, Advanced Algorithms, Rapid Prototype Development, Cloud Computing.
-
-- **Bachelor of Technology in Computer Science and Engineering**  
-  SRM Institute of Science and Technology, Chennai, India (Aug 2020 - May 2024)  9/14/10.00
-  Relevant Courses: Data Structures, Database Management Systems, Operating Systems, Software Engineering & Project Management.
-
----
-
-### 🛠 Technical Skills
-
-- **Programming Languages**: C++, Java, Python, JavaScript, TypeScript, PHP, Swift, HTML, CSS, Bash, Rust
-- **Frameworks/Technologies**: React, Next.js, Framer Motion, Material UI, Node.js, Express, MongoDB, SQL, PostgreSQL
-- **Cloud/DevOps**: AWS (EC2, S3, IAM), Docker, Kubernetes, Google Kubernetes Engine, GitHub Actions 
-- **Tools**: Git, Linux, Bash, GitHub
-
----
 
 ### 💼 Experience
 
@@ -66,6 +46,27 @@ I'm **Aman Verma**, I'm a passionate full-stack developer and AI enthusiast at W
   - Designed polished dashboards with **Tailwind CSS** & **Framer Motion**; added light/dark themes and animations.  
   - Productionized an **AI chatbot** using **Rasa** on **AWS EC2**; configured **NGINX** for HTTPS and a custom domain.  
 
+
+---
+
+### 📚 Education
+
+- **Master of Science in Computer Science**  
+  Washington University in St. Louis (Expected Graduation: May 2026)  3.55/4.00
+  Relevant Courses: Mobile Application Development, Advanced Algorithms, Rapid Prototype Development, Cloud Computing.
+
+- **Bachelor of Technology in Computer Science and Engineering**  
+  SRM Institute of Science and Technology, Chennai, India (Aug 2020 - May 2024)  9/14/10.00
+  Relevant Courses: Data Structures, Database Management Systems, Operating Systems, Software Engineering & Project Management.
+
+---
+
+### 🛠 Technical Skills
+
+- **Programming Languages**: C++, Java, Python, JavaScript, TypeScript, PHP, Swift, HTML, CSS, Bash, Rust
+- **Frameworks/Technologies**: React, Next.js, Framer Motion, Material UI, Node.js, Express, MongoDB, SQL, PostgreSQL
+- **Cloud/DevOps**: AWS (EC2, S3, IAM), Docker, Kubernetes, Google Kubernetes Engine, GitHub Actions 
+- **Tools**: Git, Linux, Bash, GitHub
 
 ---
 
