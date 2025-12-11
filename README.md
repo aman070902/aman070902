@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm **Aman Verma**, I'm a passionate full-stack developer and AI enthusiast at Washington University in St. Louis. I specialize in building scalable web applications, AI-powered solutions, and exploring new technologies. From developing innovative solutions with React and Node.js to machine learning with Python, I aim to solve real-world problems and share my projects with the world.
+[cite_start]I'm **Aman Verma**, a passionate full-stack developer and AI enthusiast at Washington University in St. Louis[cite: 2, 4]. I specialize in building scalable web applications, AI-powered solutions, and exploring new technologies. From developing innovative solutions with React and Node.js to machine learning with Python, I aim to solve real-world problems and share my projects with the world.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-LinkedIn-blue)](https://www.linkedin.com/in/amanverma070902) 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-My%20Portfolio-teal)](https://amanverma07.vercel.app)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-LinkedIn-blue)](https://www.linkedin.com/in/amanverma070902)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-My%20GitHub-black)](https://github.com/aman070902)
-
 
 ### 🧰 Languages and Tools
 
@@ -27,95 +27,107 @@ I'm **Aman Verma**, I'm a passionate full-stack developer and AI enthusiast at W
 
 ---
 
-
 ### 💼 Experience
 
-- **Washington University in St. Louis**  
-  *Teaching Assistant — Cloud Computing with Big Data; Software Engineering Workshop*  
-  *Aug 2025 – Present · St. Louis, MO*  
-  - Directed hands-on labs on **Docker**, **Kubernetes**, and backend systems for **140+ students**.  
-  - Assessed student projects for code, **architecture**, and **deployment**, reinforcing agile practices.  
-  - Mentored students on **Git**, debugging, and **CI/CD**, improving teamwork and delivery cadence.  
+- **WashU Satellite**
+  *Software Engineer — Ground Software & DevOps*
+  [cite_start]*Sep 2025 – Present · St. Louis, MO* [cite: 14]
+  - [cite_start]Building Python maneuver planner for **SCALAR** to compute minimum-time rotations under 2-axis limits[cite: 16].
+  - [cite_start]Owning CubeSat ground-station stack (**Docker**, **Postgres**, **AWS**) and CI pipelines for ADCS services[cite: 17].
 
-- **Ignite Performance**  
-  *Software Developer Intern*  
-  *Jun 2025 – Aug 2025 · St. Louis, MO*  
-  - Conceived and launched the startup’s first fitness platform (**Next.js**, **Node.js**, **MongoDB**) from concept to MVP.  
-  - Built habit tracking (**~95% accuracy**), **JWT** auth, **PayPal** tiers, admin roles, and a secure user/admin portal.  
-  - Shipped real-time analytics with MongoDB aggregations & caching, cutting data retrieval latency by **~60%**.  
-  - Designed polished dashboards with **Tailwind CSS** & **Framer Motion**; added light/dark themes and animations.  
-  - Productionized an **AI chatbot** using **Rasa** on **AWS EC2**; configured **NGINX** for HTTPS and a custom domain.  
+- **Ignite Performance**
+  *Software Developer Intern*
+  [cite_start]*Jun 2025 – Present · St. Louis, MO* [cite: 19]
+  - [cite_start]Pioneered flagship fitness platform (**Next.js/Node.js/MongoDB**), shipping MVP in **8 weeks** to onboard **100+ users**[cite: 20].
+  - [cite_start]Shipped habit tracking (**+19% 7-day completion**) and timezone-aware resets to boost weekly retention by **+14%**[cite: 21].
+  - [cite_start]Achieved **99% payment success** on 3-tier plans via **PayPal**, JWT auth, and role-based admin portals[cite: 22].
+  - [cite_start]Built real-time **MongoDB** dashboards via aggregation/caching, cutting latency **60%** to boost engagement[cite: 23].
 
-
----
-
-### 📚 Education
-
-- **Master of Science in Computer Science**  
-  Washington University in St. Louis (Expected Graduation: May 2026)  **3.55/4.00**
-
-- **Bachelor of Technology in Computer Science and Engineering**  
-  SRM Institute of Science and Technology, Chennai, India (Aug 2020 - May 2024)  **9.14/10.00**
+- **Washington University in St. Louis**
+  *Teaching Assistant — Cloud Computing with Big Data; Software Engineering Workshop*
+  [cite_start]*Aug 2025 – Dec 2025 · St. Louis, MO* [cite: 25]
+  - [cite_start]Leading labs on **Docker**, **Kubernetes**, backend systems, and Git for **140+ students**[cite: 26].
+  - [cite_start]Reviewing projects for code quality, architecture, deployment, and **CI/CD** using agile practices[cite: 27].
 
 ---
 
-### 🛠 Technical Skills
+### 🏆 Achievements
 
-- **Programming Languages**: C++, Java, Python, JavaScript, TypeScript, PHP, Swift, HTML, CSS, Bash, Rust
-- **Frameworks/Technologies**: React, Next.js, Framer Motion, Material UI, Node.js, Express, MongoDB, SQL, PostgreSQL
-- **Cloud/DevOps**: AWS (EC2, S3, IAM), Docker, Kubernetes, Google Kubernetes Engine, GitHub Actions 
-- **Tools**: Git, Linux, Bash, GitHub
+- **Perfect Buy** (Oct 2025)
+  [cite_start]*When-to-Buy Chrome Extension — First Runner-Up (350+ participants)* 
+  - [cite_start]**First Runner-Up** at WashU Hackathon; predicts sales events for premium Amazon items[cite: 49].
+  - [cite_start]Built a privacy-first engine (**LLaMA 3.1**, **TypeScript**, **Chrome MV3**) achieving **~93% accuracy** on sale probability[cite: 48, 50].
 
 ---
 
 ### 🚀 Projects
 
-- **[VoltPath](https://github.com/aman070902/VoltPath)** (Mar 2025 - May 2025)  
-  AI-powered EV Route Navigator 
-  - Engineered a smart EV route planner in Next.js + FastAPI with real-time station, traffic, and weather signals and ML personalization; achieved ~150 ms median latency and up to 10 stations/query.
-  - Orchestrated microservices on GKE with Kafka-backed FastAPI and Amazon RDS; sustained ~1.0 msgs/s ingest and integrated PlugShare + Grafana dashboards for live monitoring and alerting.
-    
-- **[EchoSync](https://github.com/aman070902/ai-voice-agent)** (Apr 2025)   
-  *AI Call Agent for Local Business Discovery* — *Gemini API, Twilio, STT, TTS, Python, ngrok*  
-  - Prototyped an AI voice agent using **Gemini API** + **Twilio** with real-time **STT/TTS** in **Python**; delivered ~**125 ms** responses with natural multi-turn call flow and personalized results.  
-  - Operationalized the backend via **ngrok** webhooks with a **Twilio → Webhook → STT → Gemini → TTS** pipeline for phone calls and speech queries; packaged a demo-ready system overnight.
+- **MicroTutor** (Aug 2025 - Dec 2025)
+  [cite_start]*Micro-Tutoring Platform* — *React, Node.js, PostgreSQL, Docker, Kubernetes, Ollama* [cite: 29, 31, 33]
+  - [cite_start]Built a 1:1 tutoring platform with **<300ms WebRTC** video setup and an **Ollama chatbot** for tutor recommendations[cite: 33].
+  - [cite_start]Containerized 4 microservices (frontend, backend, DB, AI) with **Docker** and deployed to **Kubernetes (GKE)** with production CI/CD[cite: 34].
 
+- **MindMemos** (Nov 2025 - Dec 2025)
+  [cite_start]*Peer-Support Mental Health Journaling Platform* — *Angular, AWS Lambda, DynamoDB, Socket.IO* [cite: 35, 37]
+  - [cite_start]Designed a journaling space using **Socket.IO** and **DynamoDB**, cutting match latency to **0.7s** for similar anxiety patterns[cite: 38].
+  - [cite_start]Integrated **Llama 3.1** to generate empathetic, multi-turn replies, boosting helpful-reply acceptance by **~35%**[cite: 39].
 
-- **[HarvestHub](https://github.com/aman070902/HarvestHub)** (Jan 2025 - Present)  
+- **[EchoSync](https://github.com/aman070902/ai-voice-agent)** (Apr 2025)
+  [cite_start]*AI Call Agent for Local Business Discovery* — *Gemini API, Twilio, STT, TTS, Python, ngrok* [cite: 42]
+  - [cite_start]Engineered a **Python** voice agent (**Gemini**, **Twilio**, **STT**/**TTS**) achieving sub-**125 ms** latency with natural multi-turn flow[cite: 43].
+  - [cite_start]Deployed backend via **ngrok** webhooks (**Twilio**$\to$**STT**$\to$**Gemini**$\to$**TTS**), shipping a demo-ready phone system overnight[cite: 44].
+
+- **[VoltPath](https://github.com/aman070902/VoltPath)** (Mar 2025 - May 2025)
+  *AI-powered EV Route Navigator*
+  - Engineered a smart EV route planner in Next.js + FastAPI with real-time station, traffic, and weather signals and ML personalization; achieved ~150 ms median latency.
+  - Orchestrated microservices on GKE with Kafka-backed FastAPI and Amazon RDS; sustained ~1.0 msgs/s ingest.
+
+- **[HarvestHub](https://github.com/aman070902/HarvestHub)** (Jan 2025 - Present)
   A next-gen marketplace for seasonal goods. Built using React, Material UI, Node.js, Express, and MySQL.
-  - Engineered a dashboard to track inventory, sales, and market trends in real-time.
-  - Added filtering, interactive charts, and a responsive UI for seamless navigation.
 
-- **[Rentify](https://github.com/aman070902/Rentify)** (Nov 2024 - Dec 2024)  
+- **[Rentify](https://github.com/aman070902/Rentify)** (Nov 2024 - Dec 2024)
   A rental marketplace with chatroom-based bidding, built with React, Node.js, MongoDB, and WebSockets.
-  - Implemented live notifications and status updates for real-time chat interactions.
 
-- **[Workkie](https://github.com/aman070902/Workkie)** (Oct 2024 - Dec 2024)  
+- **[Workkie](https://github.com/aman070902/Workkie)** (Oct 2024 - Dec 2024)
   A professional networking iOS app with location-based connection features, built with Swift and UIKit.
-  - Developed a GPS-based networking feature for proximity-based connections.
 
-- **[MLAgriCare](https://doi.org/10.1109/ICSPCRE62303.2024.10675260)** (Jul 2024)  
-  A machine learning app for crop prediction, fertilizer recommendation, and disease detection.  
-  - Achieved 94% accuracy in predictions and submitted findings to IEEE for a conference at NIT Rourkela.
+- **[MLAgriCare](https://doi.org/10.1109/ICSPCRE62303.2024.10675260)** (Jul 2024)
+  [cite_start]*IEEE ICSPCRE Publication* [cite: 52]
+  - [cite_start]ML app for crop prediction and disease detection; achieved **94% accuracy** and published findings to IEEE[cite: 52].
+
+---
+
+### 📚 Education
+
+- **Master of Science in Computer Science**
+  [cite_start]Washington University in St. Louis (Expected Graduation: May 2026) **3.55/4.00** [cite: 4, 5]
+
+- **Bachelor of Technology in Computer Science and Engineering**
+  [cite_start]SRM Institute of Science and Technology, Chennai, India (Aug 2020 - May 2024) **9.14/10.00** [cite: 6, 7]
+
+---
+
+### 🛠 Technical Skills
+
+- [cite_start]**Programming Languages**: C++, Java, Python, JavaScript, TypeScript, PHP, Swift, HTML, CSS, Bash, Rust [cite: 54]
+- [cite_start]**Frameworks/Technologies**: React, Angular, Next.js, Node.js, Express, MongoDB, DynamoDB, PostgreSQL, MySQL [cite: 55]
+- [cite_start]**Cloud/DevOps**: AWS (Lambda, EC2, S3), Docker, Kubernetes, GKE, GitHub Actions, ngrok [cite: 55]
+- [cite_start]**AI/ML**: Ollama, Llama 3.1, Gemini API, Rasa [cite: 33, 42]
 
 ---
 
 ### 🏅 Leadership
 
-- **Facility Lead** - WashU Recreation Center (Sep 2024 - Present)  
+- **Facility Lead** - WashU Recreation Center (Sep 2024 - Present)
   - Managed team operations and ensured smooth facility operations while training staff for enhanced productivity.
 
 ---
 
 ### 💬 Let's Connect
 
-Feel free to reach out to me for collaboration, questions, or just to connect.  
-📧 Reach me at: **aman.v@wustl.edu**  
-LinkedIn: [Aman Verma](https://www.linkedin.com/in/amanverma070902)  
-GitHub: [Aman Verma](https://github.com/aman070902)
-
----
-
-
-
+Feel free to reach out to me for collaboration, questions, or just to connect.
+[cite_start]📧 Reach me at: **aman.v@wustl.edu** 
+[cite_start]Portfolio: [amanverma07.vercel.app](https://amanverma07.vercel.app) 
+[cite_start]LinkedIn: [Aman Verma](https://www.linkedin.com/in/amanverma070902) 
+[cite_start]GitHub: [Aman Verma](https://github.com/aman070902)
 
