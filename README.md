@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there!
 
-[cite_start]I'm **Aman Verma**, a passionate full-stack developer and AI enthusiast at Washington University in St. Louis[cite: 2, 4]. I specialize in building scalable web applications, AI-powered solutions, and exploring new technologies. From developing innovative solutions with React and Node.js to machine learning with Python, I aim to solve real-world problems and share my projects with the world.
+I'm **Aman Verma**, a passionate full-stack developer and AI enthusiast at Washington University in St. Louis[cite: 2, 4]. I specialize in building scalable web applications, AI-powered solutions, and exploring new technologies. From developing innovative solutions with React and Node.js to machine learning with Python, I aim to solve real-world problems and share my projects with the world.
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-My%20Portfolio-teal)](https://amanverma07.vercel.app)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-LinkedIn-blue)](https://www.linkedin.com/in/amanverma070902)
@@ -62,12 +62,12 @@
 
 ### 🚀 Projects
 
-- **MicroTutor** (Aug 2025 - Dec 2025)
+- **[MicroTutor](https://34.10.159.172/)** (Aug 2025 - Dec 2025)
   [cite_start]*Micro-Tutoring Platform* — *React, Node.js, PostgreSQL, Docker, Kubernetes, Ollama* [cite: 29, 31, 33]
   - [cite_start]Built a 1:1 tutoring platform with **<300ms WebRTC** video setup and an **Ollama chatbot** for tutor recommendations[cite: 33].
   - [cite_start]Containerized 4 microservices (frontend, backend, DB, AI) with **Docker** and deployed to **Kubernetes (GKE)** with production CI/CD[cite: 34].
 
-- **MindMemos** (Nov 2025 - Dec 2025)
+- **[MindMemos](https://github.com/aman070902/MindMemo_v3)** (Nov 2025 - Dec 2025)
   [cite_start]*Peer-Support Mental Health Journaling Platform* — *Angular, AWS Lambda, DynamoDB, Socket.IO* [cite: 35, 37]
   - [cite_start]Designed a journaling space using **Socket.IO** and **DynamoDB**, cutting match latency to **0.7s** for similar anxiety patterns[cite: 38].
   - [cite_start]Integrated **Llama 3.1** to generate empathetic, multi-turn replies, boosting helpful-reply acceptance by **~35%**[cite: 39].
