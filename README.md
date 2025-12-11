@@ -23,14 +23,11 @@ I'm **Aman Verma**, a passionate full-stack developer and AI enthusiast at Washi
 <img align="left" alt="Docker" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="AWS Lambda" width="60px" style="padding-right:10px;"
-     src="https://cdn.simpleicons.org/awslambda/FF9900" />
-<img align="left" alt="Amazon DynamoDB" width="60px" style="padding-right:10px;"
-     src="https://cdn.simpleicons.org/amazondynamodb/4053D6" />
-<img align="left" alt="Amazon CloudWatch" width="60px" style="padding-right:10px;"
-     src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" />
-<img align="left" alt="Amazon S3" width="60px" style="padding-right:10px;"
-     src="https://cdn.simpleicons.org/amazons3/569A31" />
+<img align="left" alt="AWS Lambda" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/awslambda.svg" />
+<img align="left" alt="Amazon DynamoDB" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazondynamodb.svg" />
+<img align="left" alt="Amazon CloudWatch" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazoncloudwatch.svg" />
+<img align="left" alt="Amazon S3" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazons3.svg" />
+
 <br />
 
 ---
