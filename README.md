@@ -50,7 +50,7 @@ Jul 2026 – Present · St. Louis, MO
 Ignite Performance
 
 Lead Software Developer
-Jun 2025 – Present · St. Louis, MO
+Jun 2025 – Sep 2026 · St. Louis, MO
 
 * Delivered a production-ready fitness platform in 8 weeks using Next.js, Node.js, MongoDB, and AWS EC2.
 * Increased 7-day habit completion by 19% and weekly retention by 14% through timezone-aware habit tracking.
