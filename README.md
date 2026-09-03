@@ -1,174 +1,200 @@
-### Hi there! 👋
+Hi, I’m Aman Verma 👋
 
-I'm **Aman Verma**, a Software Engineer and M.S. in Computer Science student at **Washington University in St. Louis**. I enjoy building scalable software across **backend systems, cloud infrastructure, full-stack apps, AI-powered products, and developer workflows**. My work spans **Python, Go, Java, C#/.NET, JavaScript/TypeScript, cloud platforms, and modern DevOps practices**.
+I’m a Software Engineer with an M.S. in Computer Science from Washington University in St. Louis. I enjoy building and shipping production software across full-stack applications, backend systems, cloud infrastructure, mobile products, distributed systems, and AI-powered workflows.
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-My%20Portfolio-teal)](https://amanverma07.vercel.app)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-LinkedIn-blue)](https://www.linkedin.com/in/amanverma070902)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-My%20GitHub-black)](https://github.com/aman070902)
+My recent work includes building a cross-platform delivery platform at HAULa, leading development of the production fitness platform at Ignite Performance, developing flight-software validation workflows for the WashU SCALAR CubeSat, and mentoring 200+ engineering students across cloud, mobile, and software-development courses.
 
----
+I primarily work with TypeScript, JavaScript, Python, Java, Go, React/React Native, Node.js, PostgreSQL, MongoDB, AWS, Docker, and Kubernetes.
 
-### 🧰 Languages and Tools
+⸻
 
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Go" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-<img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg"/>
+🧰 Languages & Tools
 
-<br />
-<br />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" alt="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="45" alt="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+</p>
 
----
+⸻
 
-### 💼 Experience
+💼 Experience
 
-- **WashU Satellite**  
-  *Software Engineer*  
-  *Sep 2025 – Present · St. Louis, MO*  
-  - Built software for CubeSat using **Python** and **Go**, improving service stability and cutting debugging time by **25%+**.
-  - Designed a magnetorquer planner that increased ADCS testing speed by **15%+** through better control validation.
-  - Strengthened testing reliability through repeatable validation workflows, reducing rerun effort by **28%+**.
+HAULa
 
-- **Washington University in St. Louis**  
-  *Teaching Assistant — McKelvey School of Engineering*  
-  *Aug 2025 – Present · St. Louis, MO*  
-  - Guided **200+ students** through programming, debugging, testing, and software design across mobile and cloud courses.
-  - Hosted labs involving **iOS, AWS, Git, and CI/CD** while helping students improve code quality by **15%+**.
+Software Developer
+Jul 2026 – Present · St. Louis, MO
 
-- **Ignite Performance**  
-  *Software Developer Intern*  
-  *Jun 2025 – Feb 2026 · St. Louis, MO*  
-  - Helped build the flagship fitness platform with **Next.js, Node.js, MongoDB, and AWS EC2**, shipping an MVP in **8 weeks**.
-  - Implemented timezone-aware habit tracking that raised **7-day completion by 19%** and **weekly retention by 14%**.
-  - Built secure backend workflows with **JWT auth** and payment integrations, reaching **99% payment success**.
-  - Created real-time **MongoDB** and **AWS S3** dashboards with aggregation and caching, cutting latency by **60%**.
-  - Used **PM2 with AWS EC2** to keep services running reliably in a fast-moving startup.
+* Built a cross-platform delivery system for iOS and Android using React Native, Expo, TypeScript, and Supabase.
+* Architected a PostgreSQL backend with 45+ migrations, Row Level Security, Realtime, and secure RPC workflows.
+* Developed end-to-end onboarding for drivers, vehicles, trailers, document uploads, and application review.
+* Implemented real-time driver location and delivery tracking using Supabase Realtime and Google Maps APIs.
+* Integrated Stripe, Twilio, Google Maps, Supabase Storage, and other production services.
+* Managed production releases through EAS Build, TestFlight, App Store Connect, and Google Play Console.
 
-- **EchoSync**  
-  *Backend Developer (Part time)*  
-  *Feb 2025 – Apr 2025 · St. Louis, MO*  
-  - Coded EchoSync’s MVP backend in **C# and .NET** for auth, user intake, and event participation across **3+ core flows**.
-  - Processed **20+ Spotify song inputs per event** to support live genre preference analysis and backend data handling.
-  - Connected backend workflows to the clustering pipeline, improving MVP demo readiness and recommendation by **12%**.
-  - Worked with the founding team to ship usable MVP features in under **3 months** for demos and early validation.
+Ignite Performance
 
----
+Lead Software Developer
+Jun 2025 – Present · St. Louis, MO
 
-### 🏆 Achievements
+* Delivered a production-ready fitness platform in 8 weeks using Next.js, Node.js, MongoDB, and AWS EC2.
+* Increased 7-day habit completion by 19% and weekly retention by 14% through timezone-aware habit tracking.
+* Achieved 99% payment success through secure JWT authentication and payment workflows.
+* Reduced dashboard latency by 60% using MongoDB aggregations and AWS S3 analytics pipelines.
+* Deployed and monitored production Node.js services using AWS EC2, PM2, Nginx, and HTTPS.
 
-- **First Runner-Up, WashU Hackathon**  
-  - Built **PerfectBuy**, a Chrome extension for perfect buy timing for luxury products.
+WashU SCALAR CubeSat
 
-- **Two-Time Winner, International Mathematics Olympiad**  
-  - **IMO by SOF**
+Software Engineer — Ground / ADCS / DevOps
+Sep 2025 – May 2026 · St. Louis, MO
 
----
+* Reduced CubeSat debugging time by 25%+ by developing Python and Go validation pipelines for flight software.
+* Improved ADCS testing speed by 15%+ through spacecraft control and magnetorquer validation workflows.
+* Reduced software rerun effort by 28% by automating reliability, regression, and verification workflows.
+* Worked across software, containerized development environments, and spacecraft testing infrastructure.
 
-### 🚀 Projects
+Washington University in St. Louis
 
-- **Poker Analytics Pipeline — Real-Time Data Pipeline & Performance Dashboard**  
-  *Feb 2026 – Apr 2026*  
-  - Led a real-time poker analytics pipeline with **Python, Kafka, Spark Streaming, Airflow, Redis, Postgres, and Snowflake** on **21M+ records**.
-  - Added **6-handed simulations**, idempotent pipelines, and **KMeans profiling** for low-latency dashboards and live player analysis.
+Teaching Assistant — McKelvey School of Engineering
+Aug 2025 – May 2026 · St. Louis, MO
 
-- **OpsPilot — AI Triage & Workflow Automation Platform**  
-  *Apr 2026 – Present*  
-  - Built an internal tool with **Python, FastAPI, PostgreSQL, and OpenAI APIs** to classify, route, and summarize tickets.
-  - Added rules-based escalation, dashboards, and playbook generation to reduce manual triage and improve visibility.
+* Mentored 200+ students across Mobile App Development, Cloud Computing, and Software Engineering.
+* Guided students through debugging, architecture, Git, CI/CD, AWS, Docker, Kubernetes, and software-development workflows.
+* Led labs and technical reviews focused on improving code quality and engineering practices.
 
-- **[A Cross-US Exploration of Mental Health in the Tech Workplace](https://csex57.github.io/mentalhealth/)**  
-  *Feb 2026 – Apr 2026*  
-  - Built an interactive U.S. mental health dashboard with **JavaScript, D3.js, HTML/CSS, and GeoJSON** by integrating 3 datasets.
-  - Delivered **6 linked visualizations** to analyze state trends, workplace support patterns, and individual survey experiences.
+EchoSync
 
-- **HelpBeacon — Location-Based Community Assistance Platform**  
-  *Jan 2026 – Mar 2026*  
-  - Constructed a web platform with **Java, Spring Boot, Next.js, TypeScript, JPA, and REST APIs** for nearby help requests.
-  - Added structured request states, location workflows, and scalable backend logic to improve reliability and user visibility with **SQL**.
+Backend Developer — Part Time
+Feb 2025 – Apr 2025 · St. Louis, MO
 
-- **Concurrent File Server & Networked Script Processing Tool**  
-  *Nov 2025 – Dec 2025*  
-  - Built a **Rust-based multithreaded file server** using threads, Arc, Mutex, TcpListener, and AtomicBool for parallel file processing.
-  - Implemented fork-join concurrency, a TCP test client, and hybrid local/network I/O flows to improve script handling and reliability.
+* Built authentication, intake, and event-management workflows using Java and Spring Boot.
+* Processed 20+ Spotify inputs per event through backend services for live preference analysis.
+* Integrated clustering-driven recommendation workflows, improving recommendation readiness by 12%.
 
-- **[MindMemos](https://youtu.be/jdHkCyzQpm0)**  
-  *AI-Powered Journaling & Wellness Platform*  
-  *Nov 2025 – Jan 2026*  
-  - Created an AI journaling platform with **Angular, Node.js/Express, AWS Lambda, DynamoDB, S3, and OpenAI backend workflows**.
-  - Developed a voice and gesture-based **Apple Watch experience** with **Swift and Azure Speech** for fast, touch-free wellness interaction.
+⸻
 
-- **[MicroTutor](http://microtutor2.duckdns.org)**  
-  *AI-Powered Micro-Tutoring Platform*  
-  *Aug 2025 – Dec 2025*  
-  - Built a tutoring platform with **React, Node.js/Express, PostgreSQL, and WebRTC** for live sessions, ratings, and tutor discovery.
-  - Deployed containerized frontend, backend, database, and Ollama services with **Docker and Kubernetes** for scalable delivery.
+🚀 Featured Projects
 
-- **InventorySync — Warehouse Management Dashboard**  
-  *Jan 2025 – Apr 2025*  
-  - Constructed a **C# and .NET** backend for inventory tracking, order updates, and stock movement through RESTful services.
-  - Connected **SQL** storage, authentication, and reporting workflows to support fast search and low-latency updates.
+OpsPilot — AI Triage & Workflow Automation Platform
 
-- **HelpBeacon iOS — Location-Based Community Assistance App**  
-  *Feb 2026 – Present*  
-  - Built an iOS app with **Swift, SwiftUI, MapKit, and CoreLocation** for creating and discovering nearby help requests.
-  - Designed app flows for live location selection, request discovery, and scalable request handling with REST-style backend integration.
+Python · FastAPI · PostgreSQL · LLM APIs
 
-- **[MindMemos iOS — Gesture-Controlled Wellness Assistant](https://youtu.be/jdHkCyzQpm0)**  
-  *Dec 2025 – Jan 2026*  
-  - Built an Apple Watch assistant with **Swift, SwiftUI, and watchOS** for gesture-controlled, voice-first wellness support.
-  - Integrated watch flows with backend APIs, WebSockets, and speech pipelines for seamless panic-chat and guided support features.
+* Built an AI-powered backend to classify, route, summarize, and escalate support tickets.
+* Developed REST APIs, workflow rules, dashboards, and playbook-generation features for operational automation.
 
-- **[Workkie iOS — Professional Networking App](https://github.com/aman070902/Workkie)**  
-  *Oct 2024 – Dec 2024*  
-  - Built an iOS networking app with **Swift, UIKit, Auto Layout, MongoDB, and JSON** for profile discovery and user connections.
-  - Added proximity-based features and responsive UI flows to support real-time networking and smoother mobile interaction.
+Poker Analytics Pipeline
 
----
+Python · Kafka · Spark Streaming · Airflow · Redis · PostgreSQL · Snowflake
 
-### 📚 Education
+* Built a real-time analytics pipeline processing 21M+ poker records.
+* Added 6-handed simulations, idempotent data pipelines, KMeans profiling, and low-latency analytics workflows.
 
-- **Master of Science in Computer Science**  
-  Washington University in St. Louis  
-  *Expected Graduation: May 2026*  
-  **GPA: 3.48/4.00**
+BioCohort — Cloud-Native Cancer Genomics Platform
 
-- **Bachelor of Technology in Computer Science and Engineering**  
-  SRM Institute of Science and Technology, Chennai, India  
-  *May 2024*  
-  **GPA: 9.14/10.00**
+Go · React · PostgreSQL · Docker · Kubernetes · MinIO
 
----
+* Built a cloud-native genomics platform for processing 50K+ TCGA records.
+* Developed microservices, REST APIs, and S3-compatible ingestion pipelines with containerized deployment.
 
-### 🛠 Technical Skills
+MicroTutor — AI-Powered Micro-Tutoring Platform
 
-- **Languages:** C++, C, Python, C#, Java, Go, SQL, JavaScript, TypeScript, Rust, Linux
-- **Cloud & Databases:** AWS, Docker, Kubernetes, Git/GitHub, CI/CD, Azure, GCP, PostgreSQL, MySQL, MongoDB
-- **Core & AI Tools:** Data Structures and Algorithms, Operating Systems, OOP, Claude, Cursor, OpenAI, Copilot, Gemini
+React · Node.js · Express · PostgreSQL · WebRTC · Docker · Kubernetes
 
----
+* Built a full-stack tutoring platform supporting live sessions, tutor discovery, ratings, and real-time communication.
+* Containerized frontend, backend, database, and AI services using Docker and Kubernetes.
 
-### 💬 Let's Connect
+MindMemos — AI-Powered Journaling & Wellness Platform
 
-Feel free to reach out for collaboration, opportunities, or just to connect.
+Angular · Node.js · AWS Lambda · DynamoDB · S3 · Swift · watchOS
 
-📧 **verma.aman0907@gmail.com**  
-🌐 **Portfolio:** [amanverma07.vercel.app](https://amanverma07.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/amanverma070902](https://www.linkedin.com/in/amanverma070902)  
-💻 **GitHub:** [github.com/aman070902](https://github.com/aman070902)
+* Built an AI-powered journaling and wellness platform with cloud backend services and real-time interactions.
+* Developed a voice- and gesture-driven Apple Watch experience for hands-free wellness support.
+
+HelpBeacon — Location-Based Community Assistance Platform
+
+Java · Spring Boot · Next.js · TypeScript · PostgreSQL
+
+* Built a location-aware platform for creating and discovering nearby help requests.
+* Implemented structured request states, REST APIs, location workflows, and SQL-backed persistence.
+
+Cross-US Exploration of Mental Health in the Tech Workplace
+
+JavaScript · D3.js · HTML/CSS · GeoJSON
+
+* Built an interactive U.S. visualization dashboard by integrating multiple public datasets.
+* Developed 6 linked visualizations exploring geographic and workplace mental-health patterns.
+
+⸻
+
+🏆 Achievements
+
+* Second Place — WashU Hackathon
+    * Built PerfectBuy, a Chrome extension designed to help users identify better purchase timing for luxury products.
+
+⸻
+
+📚 Publication
+
+ML-AgriCare: Enhancing Crop Yield Through Machine Learning-Based Crop Predictor, Fertilizer Recommender, and Plant Disease Detector
+IEEE ICSPCRE, 2024
+View Publication
+
+⸻
+
+🎓 Education
+
+Washington University in St. Louis
+
+Master of Science in Computer Science
+May 2026
+GPA: 3.53 / 4.00
+
+SRM Institute of Science and Technology
+
+Bachelor of Technology in Computer Science and Engineering
+May 2024
+GPA: 9.14 / 10.00
+
+⸻
+
+🛠 Technical Skills
+
+Languages: Python, Java, Go, C#, C++, JavaScript, TypeScript, SQL
+
+Frontend & Mobile: React, React Native, Next.js, Angular, Swift, SwiftUI
+
+Backend: Node.js, Express, Spring Boot, FastAPI, REST APIs, Supabase
+
+Cloud & DevOps: AWS, Docker, Kubernetes, GCP, Git/GitHub, CI/CD, Linux, Nginx, PM2
+
+Databases: PostgreSQL, MongoDB, MySQL, DynamoDB, Amazon RDS
+
+Core: Data Structures, Algorithms, Operating Systems, Object-Oriented Programming, Distributed Systems
+
+AI Development: LLM APIs, Codex, Claude Code
+
+⸻
+
+📫 Let’s Connect
+
+I’m always interested in software engineering opportunities, ambitious products, and interesting technical problems.
+
+📧 Email: verma.aman0907@gmail.com
+🌐 Portfolio: amanverma07.vercel.app
+💼 LinkedIn: linkedin.com/in/amanverma070902
+💻 GitHub: github.com/aman070902
